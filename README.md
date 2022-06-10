@@ -6,3 +6,4 @@ Olá, Bem vindo ao meu livro de receitas!
 	- pave
 	- lasanha
 	- frito de ovo
+	- torta
